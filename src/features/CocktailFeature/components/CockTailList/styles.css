@@ -1,0 +1,13 @@
+.cocktail-list {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	list-style: none;
+}
+
+.cocktail-list li {
+	display: block;
+	flex: 1 1 300px;
+	padding: 0 15px;
+	margin-bottom: 30px;
+}
